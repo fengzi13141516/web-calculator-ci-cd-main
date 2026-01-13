@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: wkk08/web-calculator-ci-cd
+  IMAGE_NAME: fengzi13141516/web-calculator-ci-cd-main
 
 jobs:
   unit-test:
