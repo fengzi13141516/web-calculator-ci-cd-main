@@ -1,4 +1,3 @@
-# wkk2025-project
 
 
 
@@ -15,14 +14,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/wkk2025-group/wkk2025-project.git
+git remote add origin https://gitlab.com/fengzi13141516-group/fengzi13141516-project.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-* [Set up project integrations](https://gitlab.com/wkk2025-group/wkk2025-project/-/settings/integrations)
+* [Set up project integrations](https://gitlab.com/fengzi13141516-group/fengzi13141516-project/-/settings/integrations)
 
 ## Collaborate with your team
 
